@@ -1,6 +1,6 @@
 {
   "name": "@alpha7bet/fakeai-shell",
-  "version": "1.0.94",
+  "version": "1.0.95",
   "description": "Description for fakeai-shell",
   "main": "src/index.js",
   "scripts": {
